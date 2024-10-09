@@ -11,7 +11,7 @@
   <name>darkchess</name>
   <!-- FIXME change it to the project's website -->
   <url>https://playdarkchess.com</url>
-
+				       
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
@@ -20,6 +20,9 @@
     <jetty-version>9.4.14.v20181114</jetty-version>
     <jersey-version>2.26</jersey-version>
 
+  <sonar.organization>anacarof</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url
+					       
   </properties>
 
   <dependencies>
